@@ -3,7 +3,7 @@ body {
     margin: 0;
     padding: 0;  
     /* overflow: hidden; */
-    background-image: url(./assest/back-img.jpeg);
+    background-image: url(./back-img.jpeg);
     background-repeat: no-repeat; 
     background-size: cover; 
     height: 100dvb;
